@@ -1,0 +1,19 @@
+{
+  "name": "cortex-meson-builder",
+  "displayName": "Cortex Meson Builder",
+  "description": "Extension Pack for using Meson build generator on Cortex MCUs",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.cpptools",
+    "marus25.cortex-debug",
+    "mrmomo.meson-build",
+    "egomobile.vscode-powertools",
+    "actboy168.tasks"
+  ]
+}
