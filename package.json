@@ -1,6 +1,10 @@
 {
   "name": "cortex-meson-builder",
   "publisher": "RolfNoot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolfNoot/cortex-meson-builder.git"
+  },
   "displayName": "Cortex Meson Builder",
   "description": "Extension Pack for using Meson build generator on Cortex MCUs",
   "version": "0.0.1",
