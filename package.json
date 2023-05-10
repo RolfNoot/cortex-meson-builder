@@ -7,7 +7,7 @@
   },
   "displayName": "Cortex Meson Builder",
   "description": "Extension Pack for using Meson build generator on Cortex MCUs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.78.0"
   },
